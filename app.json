@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Stremio",
-    "slug": "Stremio",
+    "slug": "stremio-ios",
     "version": "1.0.0",
     "orientation": "all",
     "icon": "./assets/icon.png",
@@ -10,7 +10,9 @@
       "image": "./assets/splashscreen.png",
       "resizeMode": "cover"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "com.rcastriotta.stremioios",
@@ -51,6 +53,7 @@
       "eas": {
         "projectId": "3e60a93d-2442-4cb4-a8e4-dabe3866bc38"
       }
-    }
+    },
+    "owner": "stanica"
   }
 }
