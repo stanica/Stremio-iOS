@@ -10,12 +10,10 @@
       "image": "./assets/splashscreen.png",
       "resizeMode": "cover"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.rcastriotta.stremioios",
+      "bundleIdentifier": "com.stanica.stremio",
       "infoPlist": {
         "NSDocumentsFolderUsageDescription": "This app needs access to the Documents folder to save downloaded videos."
       }
@@ -25,7 +23,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.rcastriotta.stremioios"
+      "package": "com.stanica.stremio"
     },
     "web": {
       "favicon": "./assets/favicon.png"

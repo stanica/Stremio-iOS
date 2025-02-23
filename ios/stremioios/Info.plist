@@ -27,7 +27,7 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.rcastriotta.stremioios</string>
+				<string>com.stanica.stremio</string>
 			</array>
 		</dict>
 	</array>

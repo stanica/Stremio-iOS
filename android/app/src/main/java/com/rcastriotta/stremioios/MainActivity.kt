@@ -1,4 +1,4 @@
-package com.rcastriotta.stremioios
+package com.stanica.stremio
 
 import android.os.Build
 import android.os.Bundle

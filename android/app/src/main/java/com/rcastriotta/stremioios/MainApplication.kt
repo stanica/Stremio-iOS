@@ -1,4 +1,4 @@
-package com.rcastriotta.stremioios
+package com.stanica.stremio
 
 import android.app.Application
 import android.content.res.Configuration
