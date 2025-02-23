@@ -1,6 +1,7 @@
 {
   "cli": {
     "version": ">= 7.2.0",
+    "appVersionSource": "remote",
     "promptToConfigurePushNotifications": false
   },
   "build": {
@@ -11,7 +12,10 @@
     "preview": {
       "distribution": "internal"
     },
-    "production": {}
+    "production": {
+      "developmentClient": true,
+      "distribution": "internal"
+    }
   },
   "submit": {
     "production": {}
